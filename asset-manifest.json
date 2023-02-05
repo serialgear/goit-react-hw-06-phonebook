@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.d26d2e77.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.d26d2e77.js.map": "/react-homework-template/static/js/main.d26d2e77.js.map"
+    "main.css": "/npm%20https://serialgear.github.io/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/npm%20https://serialgear.github.io/goit-react-hw-06-phonebook/static/js/main.f0ee27bd.js",
+    "index.html": "/npm%20https://serialgear.github.io/goit-react-hw-06-phonebook/index.html",
+    "main.7acaea2f.css.map": "/npm%20https://serialgear.github.io/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
+    "main.f0ee27bd.js.map": "/npm%20https://serialgear.github.io/goit-react-hw-06-phonebook/static/js/main.f0ee27bd.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.d26d2e77.js"
+    "static/js/main.f0ee27bd.js"
   ]
 }
