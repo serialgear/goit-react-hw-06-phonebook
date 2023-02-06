@@ -21,7 +21,7 @@ const phoneBookSlice = createSlice({
       );
       state.contacts.splice(index, 1);
     },
-    filterContscts(state, action) {
+    filterContacts(state, action) {
       state.filter = action.payload;
     },
   },
@@ -38,5 +38,5 @@ export const persistedPhonebookReducer = persistReducer(
   phoneBookSlice.reducer
 );
 
-export const { formSubmitData, deleteContact, filterContscts } =
+export const { formSubmitData, deleteContact, filterContacts } =
   phoneBookSlice.actions;

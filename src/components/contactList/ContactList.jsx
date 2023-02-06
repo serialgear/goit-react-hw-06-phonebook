@@ -9,7 +9,7 @@ export const ContactList = () => {
 
   const dispatch = useDispatch();
   const filtredContact = contactList.filter(contact =>
-    contact.name.toLowerCase().includes(contactFilter)
+    contact.name.toLowerCase().includes(contactFilter.toLowerCase())
   );
 
   return filtredContact.map(contact => (
